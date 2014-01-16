@@ -4,3 +4,6 @@ project/target
 target
 tmp
 phantomjs_cache/
+.classpath
+.project
+.settings/
